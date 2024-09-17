@@ -1,0 +1,32 @@
+body {
+  color: #555;
+  }
+
+.cv {
+  padding: 10px 20px;
+  color: #333;
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid gainboro;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  }
+
+.head1 {
+  text-align: center;
+  color: darkblue;
+  font-size: 1.5rem;
+  }
+  
+.pict {
+  width: 200px;
+  border-radius: 20%;
+}
+
+.list1 {
+  background-color: lightcyan;
+}
+
+.list2 {
+  background-color: lightsalmon;
+}
